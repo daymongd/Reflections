@@ -12,3 +12,6 @@ A: Aside from the obvious branches allow the creation of checkpoints, points whe
 
 Q: How do the diagrams help you visualize the branch structure?
 A: Diagrams allow for visualisation of reachability. It's a convenient way of visualising the curent project state.
+
+Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A: Merging two or  more branches creates a commit with the common code of their LCA and all the tips involved in the merging. The result is a new commit with the nodes involved in the merging as parents.
