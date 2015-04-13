@@ -1,0 +1,15 @@
+Q: How did viewing a diff between two versions of a file help you see the bug that was introduced?
+A: Viewing the difference side by side allowed for easier identification of discrepancies between the older and the newer versions. This method of bug identification is effective for cases when something worked then after a change it didn't anymore, meaning that we changed code we didn't mean to or made a typo. This method isolates new additions and thus I was able to quickly identify the issue.
+
+Q: How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+A: A file's history might seem unimportant in the short term, but I, as an example, found myself in multiple situations where I deleted some algorithms, then implemented something else that didn't work, and had to rewrite my old code from scratch. Having a backup of the previous version would have saved me time and energy.
+
+Q: What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+A: Pros - lots of flexibility, you usually will commit meaningful changes, and your history won't get clustered, commits become logical, you have control of what is saved and what is not.
+Cons - sometimes you tend to forget to commit resulting in lots of unsaved code that gets saved all at once, devaluing the purpose of version control
+
+Q: How might using version control make you more confident to make changes that could break something?
+A: You can always reroll to an older version, so you don't need to worry that you break something accidentally, but it is a good practice to be acurate anyway.
+
+Q: Now that you have your workspace set up, what do you want to try using Git for?
+A: I want to create my projects with GIT for easier development time
