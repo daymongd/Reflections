@@ -15,3 +15,6 @@ A: Diagrams allow for visualisation of reachability. It's a convenient way of vi
 
 Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 A: Merging two or  more branches creates a commit with the common code of their LCA and all the tips involved in the merging. The result is a new commit with the nodes involved in the merging as parents.
+
+Q: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+A: Pros - it almost always works with code. Cons - With texts it might create problems as flexibility in writing texts is greater than in writing code.
