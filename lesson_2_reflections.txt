@@ -1,0 +1,5 @@
+Q: What happens when you initialize a repository? Why do you need to do it?
+A: When I initialise a repository git probably creates an empty history file, the commit tree and other things. You need to do this to be able to use git with the files in that directory.
+
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+A: The staging area is a transition space for commits, it allows us to see specifically what files are going to be commited. It offers control.
