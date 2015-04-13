@@ -9,3 +9,6 @@ A: I can choose what files to put in the staged area, and I can check with diff 
 
 Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 A: Aside from the obvious branches allow the creation of checkpoints, points where you'd want to go in different directions. Branches allow a degree of fearlesness and also multiple people can work on multiple brancehs then merge them.
+
+Q: How do the diagrams help you visualize the branch structure?
+A: Diagrams allow for visualisation of reachability. It's a convenient way of visualising the curent project state.
