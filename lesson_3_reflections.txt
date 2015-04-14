@@ -3,3 +3,6 @@ A: It is useful for team projects, and also it serves as a safe storage space, p
 
 Q: Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 A: Because the remote repository can be edited by third parties, and you firstly would want to check what they did before integrating their code in your local project
+
+Q: Describe the differences between forks, clones, and branches. When would you use one instead of another?
+A: A branch is an independed commit path that you can modify independently. A fork is a copy of someone else's github repository. A clone is a copy of a repository from github or from a local machine. You use them when needed.
